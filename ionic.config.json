@@ -1,0 +1,7 @@
+{
+  "name": "Gender_Recognition",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

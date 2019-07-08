@@ -1,0 +1,35 @@
+
+.list{
+    // margin-left:20px;
+    // padding-top:30px;
+    background-color:transparent;
+    border:1px solid blue;
+    margin:10px;
+}
+h1{
+    color:#fff;
+}
+
+ ion-icon{
+    width:30px;
+    height:30px;
+    color:#007acc;
+    
+}
+ion-footer{
+    background-color:transparent;
+}
+ ion-button{
+     margin-top:140px;
+ }
+ 
+ ion-content{
+    --background: url('../../assets/icon/background12.jpg') no-repeat 100%;
+    width:100%;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+ion-card{
+    background-color:#FFF;
+    margin-top:70px;
+}
